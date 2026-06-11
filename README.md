@@ -6,7 +6,7 @@
 ## 🧩 Overview
 
 The **Object Pooling Plugin** is a clean, modular and extensible **runtime pooling system** designed to reduce allocations and boost performance in Unity.  
-It features both a **ScriptableObject-based workflow** and a **generic key-driven pool manager**, making it suitable for gameplay systems, tools, UI, and scalable frameworks.
+It features both a **ScriptableObject-based workflow** and a **generic key-driven pool manager**, making it suitable for gameplay systems, tools, UI and scalable frameworks.
 
 > 🎯 Designed for readability, extensibility, and real production use, with clean architecture and minimal overhead.
 
